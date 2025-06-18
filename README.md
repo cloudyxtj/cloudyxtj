@@ -6,7 +6,7 @@
 
 ## 🌸 About Me
 
-I'm a Software Engineering student passionate about full-stack development, games, and cute UI design.
+I'm a Software Engineering student passionate about full-stack development.
 
 ---
 
