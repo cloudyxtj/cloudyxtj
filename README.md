@@ -33,6 +33,3 @@ I'm a Software Engineering student passionate about full-stack development, game
 
 ---
 
-<p align="center">
-  <img src="https://github.com/cloudyxtj/cloudyxtj/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
