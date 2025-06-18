@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yun Xuan 🍃</h1>
 
-<p align="center">🌸 Full-stack enthusiast ·  🎀 Cute UI appreciator</p>
+<p align="center">🎀 Full-stack enthusiast
 
 ---
 
