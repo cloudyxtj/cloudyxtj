@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Yun Xuan 🍃</h1>
+<h1 align="left">Hi, I'm Yun Xuan 🍃</h1>
 
-<p align="center">🎀 Full-stack enthusiast
-
----
 
 ## 🌸 About Me
 
