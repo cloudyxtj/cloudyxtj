@@ -3,13 +3,12 @@
 
 ## 🌸 About Me
 
-I'm a Software Engineering student passionate about full-stack development.
+I'm a Software Engineering student passionate about cloud and full-stack development.
 
 ---
 
 ## 🌱 What I'm Currently Working On
 
-- 🧠 LeetCode daily challenge
 - 🚀 Personal side project:
 - 📚 Learning: 
 
